@@ -15,11 +15,11 @@ interface IContact {
 
 const ContactMeData: IContact = {
   pageTitle: "contatos",
-  pageDescription: "Você quer entrar em contato comigo?",
+  pageDescription: "Vamos nos conectar?",
   pageSectionTitleOne: "todas-as-mídias",
-  contactMeHeadline: "Estou aberta a trabalhos freelance!",
+  contactMeHeadline: "Vamos falar sobre tecnologia e desenvolvimento.",
   contactMeOne:
-    "Mas, se você tiver qualquer outro pedido ou apenas quiser conversar, me chame a qualquer momento.",
+    "Gosto de me conectar com outros profissionais da área para discutir arquitetura de software, compartilhar aprendizados e trocar experiências. Para assuntos profissionais, oportunidades de carreira ou networking formal, a melhor forma de entrar em contato comigo é através do meu perfil oficial no LinkedIn.",
   allMedias: [
     {
       name: "LinkedIn",
@@ -28,7 +28,7 @@ const ContactMeData: IContact = {
     },
     {
       name: "GitHub",
-      link: "https://github.com/LadyJessie19",
+      link: "https://github.com/ladyjessieh",
       icon: "fa-brands fa-github",
     },
     {
@@ -43,7 +43,7 @@ const ContactMeData: IContact = {
     },
     {
       name: "Instagram",
-      link: "https://www.instagram.com/lady_jessie19/",
+      link: "https://www.instagram.com/lady_jessie/",
       icon: "fa-brands fa-instagram",
     },
     {

@@ -4,15 +4,24 @@ interface ISkills {
 }
 
 const skills: Array<ISkills> = [
-  { category: "Languages", tools: "JavaScript Typescript Java SQL C Python" },
-  { category: "Libraries", tools: "React.js Bootstrap jQuery" },
-  { category: "Frameworks", tools: "Spring Boot Nest.js Express.js Node.js" },
+  { category: "Languages", tools: "JavaScript TypeScript Java SQL C Python" },
+  { category: "Libraries", tools: "React.js Vuetify Vuex Bootstrap jQuery" },
   {
-    category: "Tools",
-    tools: "Git Jira Trello VSCode Postman Insomnia Figma",
+    category: "Frameworks",
+    tools: "Spring Boot Quarkus Nest.js Vue.js Express.js Node.js",
   },
-  { category: "Database", tools: "MongoDB PostgreSQL MySQL" },
-  { category: "Testing", tools: "Jest" },
+  {
+    category: "Tools & Cloud",
+    tools:
+      "AWS Docker Git Jenkins Jira ClickUp Trello VSCode Postman Insomnia Figma iReport DBeaver",
+  },
+  { category: "Database", tools: "PostgreSQL MySQL Oracle MongoDB" },
+  { category: "Testing & Concepts", tools: "Jest Cypress LGPD i18n" },
+  {
+    category: "Soft Skills",
+    tools:
+      "Problem-Solving Mentoring Teamwork Communication Organization Adaptability",
+  },
 ];
 
 export default skills;

@@ -15,11 +15,11 @@ interface IContact {
 
 const ContactMeData: IContact = {
   pageTitle: "contacts",
-  pageDescription: "Do you wanna reach me?",
+  pageDescription: "Let's connect?",
   pageSectionTitleOne: "all-media",
-  contactMeHeadline: "I'm open to freelance gigs!",
+  contactMeHeadline: "Let's talk about tech and development.",
   contactMeOne:
-    "But hey, if you've got any other requests or just wanna chat, hit me up anytime.",
+    "I enjoy connecting with fellow tech professionals to discuss software architecture, share experiences, and exchange knowledge. For professional inquiries, career opportunities, or formal networking, please reach out directly through my official LinkedIn profile.",
   allMedias: [
     {
       name: "LinkedIn",
@@ -28,7 +28,7 @@ const ContactMeData: IContact = {
     },
     {
       name: "GitHub",
-      link: "https://github.com/LadyJessie19",
+      link: "https://github.com/ladyjessieh",
       icon: "fa-brands fa-github",
     },
     {
@@ -43,7 +43,7 @@ const ContactMeData: IContact = {
     },
     {
       name: "Instagram",
-      link: "https://www.instagram.com/lady_jessie19/",
+      link: "https://www.instagram.com/lady_jessie/",
       icon: "fa-brands fa-instagram",
     },
     {

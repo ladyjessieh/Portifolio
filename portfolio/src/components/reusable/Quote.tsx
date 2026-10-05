@@ -11,14 +11,18 @@ const Quote = () => {
           <div className="phrase-quote">
             <img className="begin-quote" src={Quotes} alt="quotes" />
             {language === "EN-US" ? (
-              <p>The best way to predict the future is to create it.</p>
+              <p>Do what you ought and put yourself into what you are doing.</p>
             ) : (
-              <p> A melhor maneira de prever o futuro é criando-o.</p>
+              <p>Faz o que deves e está no que fazes.</p>
             )}
             <img className="end-quote" src={Quotes} alt="quotes" />
           </div>
           <div className="phrase-quote behind-quote">
-            <p>- Abraham Lincoln</p>
+            {language === "EN-US" ? (
+              <p>- St. Josemaría Escrivá</p>
+            ) : (
+              <p>- São Josemaria Escrivá</p>
+            )}
           </div>
         </div>
       </StyledQuote>

@@ -7,23 +7,30 @@ import { useLanguage } from "../../contexts/LanguageProvider";
 
 const MainImg = () => {
   const { language } = useLanguage() || { language: "EN-US" };
+
   return (
     <>
       <StyledMainImgDisplay>
         <img src={Jessica} alt="Jessica" width={400} />
         <StyledLabelImage>
           {language === "EN-US"
-            ? "Currently working on "
+            ? "Currently working at "
             : "Atualmente trabalhando na "}
-          <br />
-          🚀&nbsp;
-          <a href="https://izap.com.br/" target="_blank" rel="noopener">
-            Izap Softworks
+          💚&nbsp;
+          <a
+            href="https://www.prothera.com.br/"
+            target="_blank"
+            rel="noopener noreferrer">
+            Prothera
           </a>
-          {language === "EN-US" ? " and at " : " e na "}
-          💜&nbsp;
-          <a href="https://arnia.com.br/" target="_blank" rel="noopener">
-            Arnia
+          <br />
+          {language === "EN-US" ? "And studying CIS at " : "E cursando ADS na "}
+          🎓&nbsp;
+          <a
+            href="https://estacio.br/"
+            target="_blank"
+            rel="noopener noreferrer">
+            Estácio
           </a>
         </StyledLabelImage>
       </StyledMainImgDisplay>

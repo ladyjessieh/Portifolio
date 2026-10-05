@@ -24,7 +24,7 @@ interface IHome {
 
 const HomeData: IHome = {
   introduction:
-    "Proficient in both front-end and back-end development, she ensures smooth user experiences throughout the entire process, from conceptualization to deployment.",
+    "Proficient in both front-end and back-end development, I ensure seamless user experiences and robust architectures throughout the entire software lifecycle, from conceptualization to deployment.",
   pathContact: "/us/contacts",
   buttonMainHome: "Contact Me",
   downloadCV: "Download CV",
@@ -38,17 +38,17 @@ const HomeData: IHome = {
   pathAbout: "/us/about-me",
   pathSectionAbout: "/us/about-me/#certificates",
   buttonAboutText: "Read More",
-  aboutMeOne: "Hi!👋 You may call me Jessie!",
+  aboutMeOne: "Hi! 👋 I'm Jessie!",
   aboutMeTwo:
-    "I'm a Fullstack developer originally from Rio de Janeiro, now based in Campo Grande, MS. I started in 2022 and mainly work with JavaScript, Java, and SQL. My focus is on web applications and user experience.",
+    "I'm a Full-stack Developer originally from Rio de Janeiro, now based in Campo Grande, MS. With over 3 years of hands-on experience, I specialize in JavaScript, Java, and SQL, focusing on building scalable web applications and delivering exceptional user experiences.",
   aboutMeThree:
-    "Fluent in English, I practice clean code and have experience with GIT. Additionally, I work as a instructor at a programming school. I'm excited to continue growing and contributing in the field!",
+    "I am an advocate for clean code, robust architecture, and continuous learning. Currently, I dedicate my time to delivering complex software systems while pursuing my degree in Systems Analysis and Development.",
   aboutMeFour:
-    "I'm eager to keep learning and collaborating with the programming community. I hope to contribute my knowledge and skills as I continue my journey in this exciting field of technology.",
+    "I firmly believe that embracing engineering challenges is the best way to grow. I'm eager to keep collaborating with the tech community, building software that adds real value.",
   SectionTitleSix: "contact",
-  contactMeOne: "I'm open to freelance gigs!",
+  contactMeOne: "Let's talk about tech and development.",
   contactMeTwo:
-    "but hey, if you've got any other requests or just wanna chat, hit me up anytime.",
+    "For professional inquiries, career opportunities, or networking, please reach out directly through my LinkedIn profile.",
 };
 
 export default HomeData;

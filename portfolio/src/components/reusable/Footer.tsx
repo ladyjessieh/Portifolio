@@ -15,25 +15,7 @@ const Footer = () => {
               <span>
                 <Logo img={LogoImg} />
               </span>
-              <span> jessie.moura19@gmail.com</span>
             </div>
-            <div>Fullstack Developer and UX Designer</div>
-            <small>I would love to thanks the Figma onwer.</small>
-
-            <small>
-              Thanks, Elias! You rock!{" "}
-              <a
-                href="https://www.figma.com/file/VwTA6Nv74MbhBQsJGj7mH6/Portfolio-Jessie?type=design&node-id=52-1856&mode=design&t=s55H0YmginItHZ6Q-0"
-                target="_blank"
-                rel="noreferrer noopener"
-                style={{
-                  cursor: "pointer",
-                  textDecoration: "solid",
-                  color: "#62AEEF",
-                }}>
-                figma-link
-              </a>
-            </small>
           </div>
           <div>
             <h2>Media</h2>
@@ -58,7 +40,7 @@ const Footer = () => {
           </div>
         </div>
         <div className="second-row">
-          <small>© Copyright 2024. Made by Jessie Bentes </small>
+          <small>© Copyright 2026. Made by Jessica Moura. </small>
         </div>
       </StyledFooter>
     </>

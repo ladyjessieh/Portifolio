@@ -20,20 +20,22 @@ const AboutMeData: IAbout = {
   pageSectionTitleThree: "certificates",
   pageSectionTitleFour: "my-fun-facts",
   jessieBentesOne:
-    "Hey! I'm Jéssica Bentes, a dedicated fullstack developer residing in Campo Grande. My journey into tech began with diverse experiences, including graphic producer and writer, before I found my true passion in coding.",
+    "Hey! I'm Jéssica Bentes, a full-stack developer with over 3 years of experience, currently based in Campo Grande and pursuing a degree in Systems Analysis and Development. My journey into tech began with diverse experiences, including graphic production and creative writing, before I found my true passion in coding.",
   jessieBentesTwo:
-    "In summary, I have worked on a patient management system using React.js, Node.js, MongoDB, and Mongoose. I participated in a job application platform for programming positions using Nest.js, TypeORM, and PostgreSQL, which was my first team experience. I developed a contact platform for doctors and hospitals using Spring Boot and AWS. I created a food ranking system using Spring Boot, MongoDB, Swagger, and Railway for deployment. I worked on a service management system for an event company using Spring Boot, MySQL, and AWS, utilizing development and staging environments, as well as Cognito for authentication.",
+    "Currently, I am developing a secure, scalable and data-privacy compliant regulatory document management system for workplace safety. Throughout my career, I've also engineered a high-availability service management system using Spring Boot and AWS, a comprehensive patient management platform with React.js and Node.js, and a job application portal using Nest.js and PostgreSQL.",
   jessieBentesThree:
-    "Driven by a desire to contribute meaningfully to the field, I've dedicated myself to mastering various programming languages and frameworks. I'm deeply inspired by the potential of technology to create positive change and enhance lives.",
+    "Driven by a desire to contribute meaningfully, I've dedicated myself to mastering various languages and frameworks, always aiming to create software that adds real value. I firmly believe that embracing complex engineering challenges is the most powerful catalyst for professional growth.",
   jessieBentesFour:
-    "Eager to met fellow developers, share insights, and continue my journey of growth and innovation in the dynamic world of software development!",
+    "I'm always eager to meet fellow developers, share insights, and continue my journey of growth and innovation in the dynamic world of software development!",
   funFacts: [
-    "My favorite food is pizza (with lots of pepper).",
-    "I consider myself a developer/writer.",
-    "I dream of visiting South Korea.",
-    "One of my favorite hobbies is playing video games.",
-    "I can say 'I love you' in 7 different languages.",
-    "I'm passionate about music.",
+    "I grew up in Rio de Janeiro, but I proudly call Campo Grande my home today.",
+    "My passion for programming sparked from writing a simple two-parameter sum function in Python.",
+    "I'm deeply passionate about Java, a language I learned entirely on my own.",
+    "I'm a huge Notion enthusiast—I love building complex databases and formulas to organize my life and studies.",
+    "In my free time, I write mystery fiction with complex plots (currently building a town called Ponta Nascente!).",
+    "I could talk about video games for hours. It's a subject I never get tired of.",
+    "I'm passionate about music and love listening to instrumental and classical soundtracks to keep my focus sharp.",
+    "I'm a devout Catholic, and I was proudly baptized, confirmed, and had my first communion at the age of 26.",
   ],
 };
 

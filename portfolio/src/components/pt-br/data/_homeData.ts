@@ -24,7 +24,7 @@ interface IHome {
 
 const HomeData: IHome = {
   introduction:
-    "Proficiente tanto no desenvolvimento de front-end quanto no de back-end, ela garante boas experiências de usuário durante todo o processo, desde a conceituação até a implantação.",
+    "Proficiente em desenvolvimento front-end e back-end, garanto experiências de usuário fluidas e arquiteturas robustas em todo o ciclo de vida do software, da concepção ao deploy.",
   pathContact: "/br/contatos",
   buttonMainHome: "Entre em Contato",
   downloadCV: "Baixar CV",
@@ -35,20 +35,20 @@ const HomeData: IHome = {
   SectionTitleThree: "certificados",
   SectionTitleFour: "artigos",
   SectionTitleFive: "sobre-mim",
-  aboutMeOne: "Oi!👋 Você pode me chamar de Jessie!",
+  aboutMeOne: "Oi! 👋 Você pode me chamar de Jessie!",
   aboutMeTwo:
-    "Sou desenvolvedora Fullstack, originalmente do Rio de Janeiro, agora morando em Campo Grande, MS. Comecei na programação em 2022 e trabalho principalmente com JavaScript, Java e SQL. Meu foco é em aplicativos da web e experiência do usuário.",
+    "Sou Desenvolvedora Full-stack, carioca de nascimento e hoje morando em Campo Grande, MS. Com mais de 3 anos de experiência, atuo principalmente com JavaScript, Java e SQL, focando na criação de aplicações web escaláveis e na melhor experiência do usuário.",
   aboutMeThree:
-    "Fluente em inglês, pratico código limpo e tenho experiência com GIT. Além disso, trabalho como profesora em uma escola de programação. Estou animada para continuar crescendo e contribuindo no campo!",
+    "Defensora do clean code e das boas práticas de arquitetura, atualmente dedico meu tempo à entrega de sistemas complexos enquanto curso minha graduação em Análise e Desenvolvimento de Sistemas.",
   aboutMeFour:
-    "Estou ansiosa para continuar aprendendo e colaborando com a comunidade de programação. Espero contribuir com meu conhecimento e habilidades enquanto continuo minha jornada neste campo emocionante da tecnologia.",
+    "Acredito que abraçar desafios de engenharia é a melhor forma de evoluir. Estou sempre disposta a colaborar com a comunidade tech e construir softwares que agreguem valor real.",
   pathAbout: "/br/sobre-mim",
   pathSectionAbout: "/br/sobre-mim/#certificados",
   buttonAboutText: "Leia Mais",
   SectionTitleSix: "contato",
-  contactMeOne: "Estou aberta a trabalhos freelance!",
+  contactMeOne: "Vamos falar sobre tecnologia e desenvolvimento.",
   contactMeTwo:
-    "Mas, se você tiver qualquer outro pedido ou apenas quiser conversar, me chame a qualquer momento.",
+    "Para assuntos profissionais, oportunidades de carreira ou networking, a melhor forma de entrar em contato comigo é através do meu perfil no LinkedIn.",
 };
 
 export default HomeData;
