@@ -36,7 +36,7 @@ const MainLinkButtons = () => {
           </StyledLinkButton>
         </a>
         <a
-          href="https://www.instagram.com/lady_jessie19/"
+          href="https://www.instagram.com/lady_jessie/"
           target="_blank"
           rel="noopener noreferrer">
           <StyledLinkButton className="instagram">
