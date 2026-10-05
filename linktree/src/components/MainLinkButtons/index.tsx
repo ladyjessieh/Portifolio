@@ -20,7 +20,7 @@ const MainLinkButtons = () => {
           </StyledLinkButton>
         </a>
         <a
-          href="https://github.com/LadyJessie19"
+          href="https://github.com/ladyjessieh"
           target="_blank"
           rel="noopener noreferrer">
           <StyledLinkButton className="github">
