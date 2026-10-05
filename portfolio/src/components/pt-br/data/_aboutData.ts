@@ -28,6 +28,7 @@ const AboutMeData: IAbout = {
   jessieBentesFour:
     "Estou sempre ansiosa para conhecer outros desenvolvedores, compartilhar aprendizados e continuar minha jornada de inovação no dinâmico mundo do desenvolvimento de software!",
   funFacts: [
+    "Sou catolica devota, e fui orgulhosamente batizada, crismada e fiz minha primeira comunhão aos 26 anos.",
     "Cresci no Rio de Janeiro, mas hoje tenho muito orgulho de chamar Campo Grande de lar.",
     "Minha paixão pela programação começou ao escrever uma simples função de soma de 2 parâmetros em Python.",
     "Sou apaixonada por Java, linguagem que aprendi de forma totalmente autodidata.",
@@ -35,7 +36,6 @@ const AboutMeData: IAbout = {
     "No meu tempo livre, escrevo histórias de mistério com plots complexos (atualmente construindo uma cidade chamada Ponta Nascente!).",
     "Videogames são um assunto sobre o qual eu nunca me canso de conversar.",
     "Sou apaixonada por música e ouço trilhas instrumentais e clássicas para manter o foco.",
-    "Sou catolica devota, e fui orgulhosamente batizada, crismada e fiz minha primeira comunhão aos 26 anos.",
   ],
 };
 

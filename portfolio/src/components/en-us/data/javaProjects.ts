@@ -18,7 +18,7 @@ const javaProjects: Array<IJavaProjects> = [
     name: "Java Studies Repository",
     description:
       "Repository containing my Markdown files for studying Java and Spring Boot.",
-    link: "https://github.com/LadyJessie19/Java_Studies",
+    link: "https://github.com/ladyjessieh/Java_Studies",
     button: "Repository",
   },
   {
@@ -27,7 +27,7 @@ const javaProjects: Array<IJavaProjects> = [
     name: "Hotelium - Booking Reservation",
     description:
       "Final project completed during my Java Mentorship program, focusing on hotel booking reservations.",
-    link: "https://github.com/LadyJessie19/Hotelium",
+    link: "https://github.com/ladyjessieh/Hotelium",
     button: "Repository",
   },
   {
@@ -36,7 +36,7 @@ const javaProjects: Array<IJavaProjects> = [
     name: "Ranking Search - MyFood",
     description:
       "Application that aggregates the most searched foods, showcasing a ranking system.",
-    link: "https://github.com/LadyJessie19/MyFood",
+    link: "https://github.com/ladyjessieh/MyFood",
     button: "Repository",
   },
 ];

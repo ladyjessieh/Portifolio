@@ -28,6 +28,7 @@ const AboutMeData: IAbout = {
   jessieBentesFour:
     "I'm always eager to meet fellow developers, share insights, and continue my journey of growth and innovation in the dynamic world of software development!",
   funFacts: [
+    "I'm a devout Catholic, and I was proudly baptized, confirmed, and had my first communion at the age of 26.",
     "I grew up in Rio de Janeiro, but I proudly call Campo Grande my home today.",
     "My passion for programming sparked from writing a simple two-parameter sum function in Python.",
     "I'm deeply passionate about Java, a language I learned entirely on my own.",
@@ -35,7 +36,6 @@ const AboutMeData: IAbout = {
     "In my free time, I write mystery fiction with complex plots (currently building a town called Ponta Nascente!).",
     "I could talk about video games for hours. It's a subject I never get tired of.",
     "I'm passionate about music and love listening to instrumental and classical soundtracks to keep my focus sharp.",
-    "I'm a devout Catholic, and I was proudly baptized, confirmed, and had my first communion at the age of 26.",
   ],
 };
 

@@ -24,7 +24,7 @@ const biggerProjects: Array<IProjects> = [
     name: "Frutamix - Frontend",
     description:
       "Projeto frontend desenvolvido usando React.js e Typescript para uma loja de compra de sorvetes chamada Frutamix.",
-    link: "https://github.com/LadyJessie19/frutamix-frontend",
+    link: "https://github.com/ladyjessieh/frutamix-frontend",
     button: "Repositório GitHub",
   },
   {
@@ -33,7 +33,7 @@ const biggerProjects: Array<IProjects> = [
     name: "Frutamix - Backend",
     description:
       "Projeto backend desenvolvido usando Nest.js e Typescript para o app do Frutamix.",
-    link: "https://github.com/LadyJessie19/frutamix-backend",
+    link: "https://github.com/ladyjessieh/frutamix-backend",
     button: "Repositório GitHub",
   },
   {
@@ -42,7 +42,7 @@ const biggerProjects: Array<IProjects> = [
     name: "Wexer Psi - Frontend",
     description:
       "Projeto frontend desenvolvido usando React.js e Typescript para o Wexer Psi.",
-    link: "https://github.com/LadyJessie19/WexerFrontend",
+    link: "https://github.com/ladyjessieh/WexerFrontend",
     button: "Repositório GitHub",
   },
   {
@@ -51,7 +51,7 @@ const biggerProjects: Array<IProjects> = [
     name: "Wexer Psi - Backend",
     description:
       "Projeto backend construído com Node.js, seguindo os princípios de Clean Architecture, N-Tier e SOLID para o Wexer Psi.",
-    link: "https://github.com/LadyJessie19/WexerBackend",
+    link: "https://github.com/ladyjessieh/WexerBackend",
     button: "Repositório GitHub",
   },
   {
@@ -60,7 +60,7 @@ const biggerProjects: Array<IProjects> = [
     name: "Gerenciador de Tarefas Arnia",
     description:
       "Meu primeiro projeto na Arnia, inicialmente projetado para fins acadêmicos, marcando minha introdução ao desenvolvimento web.",
-    link: "https://github.com/LadyJessie19/ArniaTaskManager",
+    link: "https://github.com/ladyjessieh/ArniaTaskManager",
     button: "Repositório GitHub",
   },
   {
@@ -70,7 +70,7 @@ const biggerProjects: Array<IProjects> = [
     description:
       "Um projeto acadêmico de e-commerce em pequena escala desenvolvido para um mercado local em meu bairro.",
     button: "Repositório no GitHub",
-    link: "https://github.com/LadyJessie19/HortifruitEcommerce",
+    link: "https://github.com/ladyjessieh/HortifruitEcommerce",
   },
   {
     img: ShoppingStore,
@@ -79,14 +79,14 @@ const biggerProjects: Array<IProjects> = [
     description:
       "Um pequeno projeto destinado a explorar os React Hooks e entender sua funcionalidade.",
     button: "Repositório no GitHub",
-    link: "https://github.com/LadyJessie19/ShoppingEcommerce",
+    link: "https://github.com/ladyjessieh/ShoppingEcommerce",
   },
   {
     img: MetaVagasBack,
     tools: "Nest.js, Typescript, Railway, Equipe de Desenvolvimento",
     name: "MetaVagas - Backend",
     description: "Backend para o aplicativo MetaVagas.",
-    link: "https://github.com/LadyJessie19/meta_vagas_backend",
+    link: "https://github.com/ladyjessieh/meta_vagas_backend",
     button: "Repositório GitHub",
   },
   {
@@ -95,7 +95,7 @@ const biggerProjects: Array<IProjects> = [
     name: "MetaVagas - Frontend",
     description:
       "Frontend para o MetaVagas, um site projetado para buscar vagas de emprego para desenvolvedores.",
-    link: "https://github.com/LadyJessie19/meta_vagas_frontend",
+    link: "https://github.com/ladyjessieh/meta_vagas_frontend",
     button: "Repositório GitHub",
   },
 ];

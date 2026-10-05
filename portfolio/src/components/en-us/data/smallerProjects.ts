@@ -13,7 +13,7 @@ const smallerProjects: Array<ISmallerProjects> = [
     description:
       "Documentation created for a small software project during my first internship. Although I didn't participate in its development, I authored the manual.",
     button: "GitHub Repository",
-    link: "https://github.com/LadyJessie19/I-Common_Documentation",
+    link: "https://github.com/ladyjessieh/I-Common_Documentation",
   },
   {
     tools: "JavaScript, HTML, DOM",
@@ -21,14 +21,14 @@ const smallerProjects: Array<ISmallerProjects> = [
     description:
       "A small program capable of generating responsive tables on-screen based on user-selected rows and columns.",
     button: "GitHub Repository",
-    link: "https://github.com/LadyJessie19/ReHT_Table_Generator",
+    link: "https://github.com/ladyjessieh/ReHT_Table_Generator",
   },
   {
     tools: "JavaScript, HTML, C#",
     title: "String Format JS/C#",
     description: "A string formatter in JavaScript that implements C# logic.",
     button: "GitHub Repository",
-    link: "https://github.com/LadyJessie19/String-Format-JS-CSharp",
+    link: "https://github.com/ladyjessieh/String-Format-JS-CSharp",
   },
   {
     tools:
@@ -37,7 +37,7 @@ const smallerProjects: Array<ISmallerProjects> = [
     description:
       "React.js tutoring for students at Arnia, a programming school.",
     button: "GitHub Repository",
-    link: "https://github.com/LadyJessie19/MonitorshipReactJS",
+    link: "https://github.com/ladyjessieh/MonitorshipReactJS",
   },
   {
     tools: "Node.js, Typescript, MongoDB, SOLID, TDD, Jest, Vitest",
@@ -45,7 +45,7 @@ const smallerProjects: Array<ISmallerProjects> = [
     description:
       "Node.js tutoring for students at Arnia, a programming school.",
     button: "GitHub Repository",
-    link: "https://github.com/LadyJessie19/MonitorshipNodeJS",
+    link: "https://github.com/ladyjessieh/MonitorshipNodeJS",
   },
   {
     tools: "Java, OOP",
@@ -53,7 +53,7 @@ const smallerProjects: Array<ISmallerProjects> = [
     description:
       "Classes to introduce Java to JavaScript students, focusing on compiled languages and object-oriented programming.",
     button: "GitHub Repository",
-    link: "https://github.com/LadyJessie19/JavaArnia",
+    link: "https://github.com/ladyjessieh/JavaArnia",
   },
   {
     tools:
@@ -62,7 +62,7 @@ const smallerProjects: Array<ISmallerProjects> = [
     description:
       "Classes on the React.js library for beginners in advanced frontend development.",
     button: "GitHub Repository",
-    link: "https://github.com/LadyJessie19/ReactArnia",
+    link: "https://github.com/ladyjessieh/ReactArnia",
   },
 ];
 

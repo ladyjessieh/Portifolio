@@ -13,7 +13,7 @@ const smallerProjects: Array<ISmallerProjects> = [
     description:
       "Documentação criada para um pequeno projeto de software durante meu primeiro estágio. Embora eu não tenha participado do seu desenvolvimento, fui responsável pela autoria do manual.",
     button: "Repositório no GitHub",
-    link: "https://github.com/LadyJessie19/I-Common_Documentation",
+    link: "https://github.com/ladyjessieh/I-Common_Documentation",
   },
   {
     tools: "JavaScript, HTML, DOM",
@@ -21,7 +21,7 @@ const smallerProjects: Array<ISmallerProjects> = [
     description:
       "Um pequeno programa capaz de gerar tabelas responsivas na tela com base nas linhas e colunas selecionadas pelo usuário.",
     button: "Repositório no GitHub",
-    link: "https://github.com/LadyJessie19/ReHT_Table_Generator",
+    link: "https://github.com/ladyjessieh/ReHT_Table_Generator",
   },
   {
     tools: "JavaScript, HTML, C#",
@@ -29,7 +29,7 @@ const smallerProjects: Array<ISmallerProjects> = [
     description:
       "Um formatador de strings em JavaScript que implementa a lógica do C#.",
     button: "Repositório no GitHub",
-    link: "https://github.com/LadyJessie19/String-Format-JS-CSharp",
+    link: "https://github.com/ladyjessieh/String-Format-JS-CSharp",
   },
   {
     tools:
@@ -38,7 +38,7 @@ const smallerProjects: Array<ISmallerProjects> = [
     description:
       "Monitoria de React.js para alunos da Arnia, uma escola de programação.",
     button: "Repositório no GitHub",
-    link: "https://github.com/LadyJessie19/MonitorshipReactJS",
+    link: "https://github.com/ladyjessieh/MonitorshipReactJS",
   },
   {
     tools: "Node.js, Typescript, MongoDB, SOLID, TDD, Jest, Vitest",
@@ -46,7 +46,7 @@ const smallerProjects: Array<ISmallerProjects> = [
     description:
       "Monitoria de Node.js para alunos da Arnia, uma escola de programação.",
     button: "Repositório no GitHub",
-    link: "https://github.com/LadyJessie19/MonitorshipNodeJS",
+    link: "https://github.com/ladyjessieh/MonitorshipNodeJS",
   },
   {
     tools: "Java, POO",
@@ -54,7 +54,7 @@ const smallerProjects: Array<ISmallerProjects> = [
     description:
       "Aulas para introduzir Java a estudantes de JavaScript, focando em linguagens compiladas e programação orientada a objetos.",
     button: "Repositório no GitHub",
-    link: "https://github.com/LadyJessie19/JavaArnia",
+    link: "https://github.com/ladyjessieh/JavaArnia",
   },
   {
     tools:
@@ -63,7 +63,7 @@ const smallerProjects: Array<ISmallerProjects> = [
     description:
       "Aulas da biblioteca React.js para iniciantes no desenvolvimento frontend avançado.",
     button: "Repositório no GitHub",
-    link: "https://github.com/LadyJessie19/ReactArnia",
+    link: "https://github.com/ladyjessieh/ReactArnia",
   },
 ];
 
